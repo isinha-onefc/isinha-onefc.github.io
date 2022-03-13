@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["29:9E:E5:C2:98:D4:D1:1D:25:E3:00:6A:78:47:92:02:4E:D9:E3:17:84:1B:76:E0:E6:FA:42:A9:8F:37:CC:51"]
   }
+},
+ {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.onefc.android.app.staging",
+    "sha256_cert_fingerprints":
+    ["29:9E:E5:C2:98:D4:D1:1D:25:E3:00:6A:78:47:92:02:4E:D9:E3:17:84:1B:76:E0:E6:FA:42:A9:8F:37:CC:51"]
+  }
 }]
